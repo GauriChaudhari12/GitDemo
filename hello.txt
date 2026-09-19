@@ -2,3 +2,4 @@ Hello GitHub!
 
 This is my First GitHub Practical.
 This is TYBCA class.
+This is Git Pull Command.
